@@ -1,5 +1,5 @@
 import Footer from '@/components/headers/Footer';
-import background from '../../../public/assets/background.png';
+import background from '../../../public/assets/background.webp';
 
 export default function AuthLayout({
     children,

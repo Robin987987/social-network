@@ -1,6 +1,6 @@
 "use client"
 import MainHeader from '@/components/headers/MainHeader';
-import background from '../../../public/assets/background.png';
+import background from '../../../public/assets/background.webp';
 import Footer from '@/components/headers/Footer';
 import {TextColorModeProvider} from '@/hooks/TextColorModeContext';
 import {ChatManager, ChatProvider} from '@/components/chat/ChatContext';
